@@ -10,7 +10,7 @@ liangzhaoliang95 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.xiaozao520.cn/hello-solo)
+* [世界，你好！](https://www.xiaozao520.cn/hello-solo)
 
 
 
