@@ -10,6 +10,13 @@
 
 ### 最新
 
+* [JS中的集合：Set](https://www.xiaozao520.cn/JavaScriptSet)
+* [Mysql & Mariadb 新建用户并授权](https://www.xiaozao520.cn/MysqlnewUser)
+* [Mysql & MariaDB 开启远程访问数据库](https://www.xiaozao520.cn/MysqlOpenRemoteUse)
+* [Nginx配置常用示例](https://www.xiaozao520.cn/NginxConf)
+* [Git常用的一些操作](https://www.xiaozao520.cn/gitOperation)
+* [MongoDB启动和停止脚本示例](https://www.xiaozao520.cn/mongoShell)
+* [反向代理工具Frp后台运行脚本](https://www.xiaozao520.cn/frpStartShell)
 * [世界，你好！](https://www.xiaozao520.cn/hello-solo)
 
 
