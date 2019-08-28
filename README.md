@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [JS中的集合：Map](https://www.xiaozao520.cn/JavaScriptMap)
 * [JS中的集合：Set](https://www.xiaozao520.cn/JavaScriptSet)
 * [Mysql & Mariadb 新建用户并授权](https://www.xiaozao520.cn/MysqlnewUser)
 * [Mysql & MariaDB 开启远程访问数据库](https://www.xiaozao520.cn/MysqlOpenRemoteUse)
