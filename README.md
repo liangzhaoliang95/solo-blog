@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [写给新手前端的各种文件上传攻略，从小图片到大文件断点续传](https://www.xiaozao520.cn/articles/2019/10/21/1571621208284.html)
 * [docker 常用命令](https://www.xiaozao520.cn/articles/2019/10/11/1570765080889.html)
 * [我在 GitHub 上的开源项目](https://www.xiaozao520.cn/my-github-repos)
 * [后端必备 Nginx 配置](https://www.xiaozao520.cn/articles/2019/09/17/1568683064661.html)
