@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [重学 this 关键字(进阶必备知识）](https://www.xiaozao520.cn/articles/2019/10/22/1571711920646.html)
 * [写给新手前端的各种文件上传攻略，从小图片到大文件断点续传](https://www.xiaozao520.cn/articles/2019/10/21/1571621208284.html)
 * [docker 常用命令](https://www.xiaozao520.cn/articles/2019/10/11/1570765080889.html)
 * [我在 GitHub 上的开源项目](https://www.xiaozao520.cn/my-github-repos)
@@ -23,7 +24,6 @@
 * [Git常用的一些操作](https://www.xiaozao520.cn/gitOperation)
 * [MongoDB启动和停止脚本示例](https://www.xiaozao520.cn/mongoShell)
 * [反向代理工具Frp后台运行脚本](https://www.xiaozao520.cn/frpStartShell)
-* [世界，你好！](https://www.xiaozao520.cn/hello-solo)
 
 
 
