@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [你究竟是哪里好，这么多年我还忘不了 ](https://www.xiaozao520.cn/articles/2019/11/14/1573697345203.html)
 * [重学 this 关键字(进阶必备知识）](https://www.xiaozao520.cn/articles/2019/10/22/1571711920646.html)
 * [写给新手前端的各种文件上传攻略，从小图片到大文件断点续传](https://www.xiaozao520.cn/articles/2019/10/21/1571621208284.html)
 * [docker 常用命令](https://www.xiaozao520.cn/articles/2019/10/11/1570765080889.html)
