@@ -5,11 +5,12 @@
 <h4 align="center">日常记录各种坑</h4>
 <p align="center"><a title="梁小灶 的个人博客" target="_blank" href="https://github.com/liangzhaoliang95/solo-blog"><img src="https://img.shields.io/github/last-commit/liangzhaoliang95/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/liangzhaoliang95/solo-blog"><img src="https://img.shields.io/github/repo-size/liangzhaoliang95/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/liangzhaoliang95/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [Linux下搜索常用方法](https://www.xiaozao520.cn/articles/2019/11/19/1574130801050.html)
 * [你究竟是哪里好，这么多年我还忘不了 ](https://www.xiaozao520.cn/articles/2019/11/14/1573697345203.html)
 * [重学 this 关键字(进阶必备知识）](https://www.xiaozao520.cn/articles/2019/10/22/1571711920646.html)
 * [写给新手前端的各种文件上传攻略，从小图片到大文件断点续传](https://www.xiaozao520.cn/articles/2019/10/21/1571621208284.html)
