@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [One Day One Word](https://www.xiaozao520.cn/articles/2019/11/20/1574212816052.html)
 * [Linux下搜索常用方法](https://www.xiaozao520.cn/articles/2019/11/19/1574130801050.html)
 * [你究竟是哪里好，这么多年我还忘不了 ](https://www.xiaozao520.cn/articles/2019/11/14/1573697345203.html)
 * [重学 this 关键字(进阶必备知识）](https://www.xiaozao520.cn/articles/2019/10/22/1571711920646.html)
