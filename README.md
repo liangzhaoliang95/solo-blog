@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [NodeJs中的伪并发--Promise.all](https://www.xiaozao520.cn/articles/2019/12/12/1576119306429.html)
 * [One Day One Words](https://www.xiaozao520.cn/articles/2019/11/20/1574212816052.html)
 * [Linux下搜索常用方法](https://www.xiaozao520.cn/articles/2019/11/19/1574130801050.html)
 * [你究竟是哪里好，这么多年我还忘不了 ](https://www.xiaozao520.cn/articles/2019/11/14/1573697345203.html)
