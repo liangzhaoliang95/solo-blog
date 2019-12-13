@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [NodeJs--简单操作Redis缓存](https://www.xiaozao520.cn/articles/2019/12/12/1576139444563.html)
+* [NodeJs--简单操作MongoDB数据库](https://www.xiaozao520.cn/articles/2019/12/12/1576123246925.html)
+* [NodeJs--简单操作mysql数据库](https://www.xiaozao520.cn/articles/2019/12/12/1576123072715.html)
 * [NodeJs中的伪并发--Promise.all](https://www.xiaozao520.cn/articles/2019/12/12/1576119306429.html)
 * [One Day One Words](https://www.xiaozao520.cn/articles/2019/11/20/1574212816052.html)
 * [Linux下搜索常用方法](https://www.xiaozao520.cn/articles/2019/11/19/1574130801050.html)
@@ -27,6 +30,9 @@
 * [Nginx配置常用示例](https://www.xiaozao520.cn/NginxConf)
 * [Git常用的一些操作](https://www.xiaozao520.cn/gitOperation)
 * [MongoDB启动和停止脚本示例](https://www.xiaozao520.cn/mongoShell)
+
+### 热门
+
 * [反向代理工具Frp后台运行脚本](https://www.xiaozao520.cn/frpStartShell)
 
 
