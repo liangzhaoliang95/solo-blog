@@ -1,15 +1,27 @@
-<p align="center"><img alt="梁小灶 的个人博客" src="https://www.xiaozao520.cn/static/logo2.ico"></p><h2 align="center">
-梁小灶 的个人博客
+<p align="center"><img alt="个人编程分享" src="https://www.xiaozao520.cn/static/logo2.ico"></p><h2 align="center">
+个人编程分享
 </h2>
 
 <h4 align="center">日常记录各种坑</h4>
-<p align="center"><a title="梁小灶 的个人博客" target="_blank" href="https://github.com/liangzhaoliang95/solo-blog"><img src="https://img.shields.io/github/last-commit/liangzhaoliang95/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="个人编程分享" target="_blank" href="https://github.com/liangzhaoliang95/solo-blog"><img src="https://img.shields.io/github/last-commit/liangzhaoliang95/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/liangzhaoliang95/solo-blog"><img src="https://img.shields.io/github/repo-size/liangzhaoliang95/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/liangzhaoliang95/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [前端面试指南](https://www.xiaozao520.cn/articles/2020/08/28/1598607282631.html)
+* [Nginx知识](https://www.xiaozao520.cn/articles/2020/08/24/1598231403151.html)
+* [2020 年最牛逼的 10 门编程语言](https://www.xiaozao520.cn/articles/2020/08/21/1597973283154.html)
+* [『JWT』，你必须了解的认证登录方案](https://www.xiaozao520.cn/articles/2020/08/20/1597887680480.html)
+* [「查缺补漏」巩固你的HTTP知识体系](https://www.xiaozao520.cn/articles/2020/08/08/1596877693558.html)
+* [Linux面试题：50道一次分享给你，至少要答上一半！](https://www.xiaozao520.cn/articles/2020/06/06/1591425862450.html)
+* [恋爱日记](https://www.xiaozao520.cn/articles/2020/05/27/1590579451591.html)
+* [2020-05-18__EMMMMMM](https://www.xiaozao520.cn/articles/2020/05/26/1590458696820.html)
+* [深入 call、apply、bind、箭头函数以及柯里化](https://www.xiaozao520.cn/articles/2020/05/06/1588765834924.html)
+* [有哪些20岁年轻人越早知道越好的道理？](https://www.xiaozao520.cn/articles/2020/03/03/1583202423637.html)
+* [Promise、async、await执行顺序](https://www.xiaozao520.cn/articles/2019/12/26/1577346362517.html)
+* [NodeJs--简单实现co升级到Async](https://www.xiaozao520.cn/articles/2019/12/14/1576311999409.html)
 * [NodeJs--简单操作Redis缓存](https://www.xiaozao520.cn/articles/2019/12/12/1576139444563.html)
 * [NodeJs--简单操作MongoDB数据库](https://www.xiaozao520.cn/articles/2019/12/12/1576123246925.html)
 * [NodeJs--简单操作mysql数据库](https://www.xiaozao520.cn/articles/2019/12/12/1576123072715.html)
@@ -18,22 +30,6 @@
 * [Linux下搜索常用方法](https://www.xiaozao520.cn/articles/2019/11/19/1574130801050.html)
 * [你究竟是哪里好，这么多年我还忘不了 ](https://www.xiaozao520.cn/articles/2019/11/14/1573697345203.html)
 * [重学 this 关键字(进阶必备知识）](https://www.xiaozao520.cn/articles/2019/10/22/1571711920646.html)
-* [写给新手前端的各种文件上传攻略，从小图片到大文件断点续传](https://www.xiaozao520.cn/articles/2019/10/21/1571621208284.html)
-* [docker 常用命令](https://www.xiaozao520.cn/articles/2019/10/11/1570765080889.html)
-* [我在 GitHub 上的开源项目](https://www.xiaozao520.cn/my-github-repos)
-* [后端必备 Nginx 配置](https://www.xiaozao520.cn/articles/2019/09/17/1568683064661.html)
-* [docker启动SOLO](https://www.xiaozao520.cn/articles/2019/09/08/1567926913909.html)
-* [JS中的集合：Map](https://www.xiaozao520.cn/JavaScriptMap)
-* [JS中的集合：Set](https://www.xiaozao520.cn/JavaScriptSet)
-* [Mysql & Mariadb 新建用户并授权](https://www.xiaozao520.cn/MysqlnewUser)
-* [Mysql & MariaDB 开启远程访问数据库](https://www.xiaozao520.cn/MysqlOpenRemoteUse)
-* [Nginx配置常用示例](https://www.xiaozao520.cn/NginxConf)
-* [Git常用的一些操作](https://www.xiaozao520.cn/gitOperation)
-* [MongoDB启动和停止脚本示例](https://www.xiaozao520.cn/mongoShell)
-
-### 热门
-
-* [反向代理工具Frp后台运行脚本](https://www.xiaozao520.cn/frpStartShell)
 
 
 
