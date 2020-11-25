@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [LXQ](https://www.xiaozao520.cn/articles/2020/11/24/1606186583155.html)
 * [关于Spring AOP的灵魂十问](https://www.xiaozao520.cn/articles/2020/09/09/1599613727655.html)
 * [前端面试指南](https://www.xiaozao520.cn/articles/2020/08/28/1598607282631.html)
 * [Nginx知识](https://www.xiaozao520.cn/articles/2020/08/24/1598231403151.html)
@@ -29,7 +30,6 @@
 * [NodeJs中的伪并发--Promise.all](https://www.xiaozao520.cn/articles/2019/12/12/1576119306429.html)
 * [One Day One Words](https://www.xiaozao520.cn/articles/2019/11/20/1574212816052.html)
 * [Linux下搜索常用方法](https://www.xiaozao520.cn/articles/2019/11/19/1574130801050.html)
-* [你究竟是哪里好，这么多年我还忘不了 ](https://www.xiaozao520.cn/articles/2019/11/14/1573697345203.html)
 
 
 
