@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [婚纱照](https://www.xiaozao520.cn/articles/2021/01/19/1611049908855.html)
 * [父母爱情](https://www.xiaozao520.cn/articles/2020/12/25/1608888836182.html)
 * [婚纱照_部分](https://www.xiaozao520.cn/articles/2020/12/25/1608880891587.html)
 * [家庭端口映射表](https://www.xiaozao520.cn/articles/2020/12/01/1606813159401.html)
@@ -29,7 +30,6 @@
 * [NodeJs--简单操作Redis缓存](https://www.xiaozao520.cn/articles/2019/12/12/1576139444563.html)
 * [NodeJs--简单操作MongoDB数据库](https://www.xiaozao520.cn/articles/2019/12/12/1576123246925.html)
 * [NodeJs--简单操作mysql数据库](https://www.xiaozao520.cn/articles/2019/12/12/1576123072715.html)
-* [NodeJs中的伪并发--Promise.all](https://www.xiaozao520.cn/articles/2019/12/12/1576119306429.html)
 
 
 
