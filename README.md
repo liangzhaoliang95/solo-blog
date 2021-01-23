@@ -11,7 +11,7 @@
 ### 最新
 
 * [婚纱照](https://www.xiaozao520.cn/articles/2021/01/19/1611049908855.html)
-* [结婚视频](https://www.xiaozao520.cn/articles/2021/01/06/1609911743485.html)
+* [结婚视频](https://www.xiaozao520.cn/articles/2021/01/23/1639911743485.html)
 * [父母爱情](https://www.xiaozao520.cn/articles/2020/12/25/1608888836182.html)
 * [婚纱照_部分](https://www.xiaozao520.cn/articles/2020/12/25/1608880891587.html)
 * [家庭端口映射表](https://www.xiaozao520.cn/articles/2020/12/01/1606813159401.html)
