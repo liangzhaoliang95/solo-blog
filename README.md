@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [One Day One Words - 2021](http://localhost/articles/2021/06/25/1624604005727.html)
 * [婚纱照](http://localhost/articles/2021/01/19/1611049908855.html)
 * [结婚视频](http://localhost/articles/2021/01/23/1639911743485.html)
 * [父母爱情](http://localhost/articles/2020/12/25/1608888836182.html)
@@ -29,7 +30,6 @@
 * [Promise、async、await执行顺序](http://localhost/articles/2019/12/26/1577346362517.html)
 * [NodeJs--简单实现co升级到Async](http://localhost/articles/2019/12/14/1576311999409.html)
 * [NodeJs--简单操作Redis缓存](http://localhost/articles/2019/12/12/1576139444563.html)
-* [NodeJs--简单操作MongoDB数据库](http://localhost/articles/2019/12/12/1576123246925.html)
 
 
 
