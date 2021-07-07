@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [毕设视频介绍](http://localhost/articles/2021/07/06/1625543089527.html)
 * [Node引入TypeScript](http://localhost/articles/2021/06/28/1624866294625.html)
 * [node引入eslint](http://localhost/articles/2021/06/28/1624866258147.html)
 * [K8S相关命令](http://localhost/articles/2021/06/28/1624866121392.html)
@@ -29,7 +30,6 @@
 * [恋爱日记](http://localhost/articles/2020/05/27/1590579451591.html)
 * [2020-05-18__EMMMMMM](http://localhost/articles/2020/05/26/1590458696820.html)
 * [深入 call、apply、bind、箭头函数以及柯里化](http://localhost/articles/2020/05/06/1588765834924.html)
-* [有哪些20岁年轻人越早知道越好的道理？](http://localhost/articles/2020/03/03/1583202423637.html)
 
 
 
