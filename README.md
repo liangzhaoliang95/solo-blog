@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [个人DIY：分体式带屏幕键盘](http://localhost/articles/2021/07/08/1625728645374.html)
 * [毕设视频介绍](http://localhost/articles/2021/07/06/1625543089527.html)
 * [Node引入TypeScript](http://localhost/articles/2021/06/28/1624866294625.html)
 * [node引入eslint](http://localhost/articles/2021/06/28/1624866258147.html)
@@ -29,7 +30,6 @@
 * [Linux面试题：50道一次分享给你，至少要答上一半！](http://localhost/articles/2020/06/06/1591425862450.html)
 * [恋爱日记](http://localhost/articles/2020/05/27/1590579451591.html)
 * [2020-05-18__EMMMMMM](http://localhost/articles/2020/05/26/1590458696820.html)
-* [深入 call、apply、bind、箭头函数以及柯里化](http://localhost/articles/2020/05/06/1588765834924.html)
 
 
 
