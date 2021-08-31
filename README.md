@@ -1,4 +1,4 @@
-<p align="center"><img alt="个人编程分享" src="https://www.xiaozao520.cn/static/logo2.ico"></p><h2 align="center">
+<p align="center"><img alt="个人编程分享" src="https://oss.xiaozao520.cn/static/ico/logo.ico"></p><h2 align="center">
 个人编程分享
 </h2>
 
