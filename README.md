@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [分库分表有哪些思路和技巧？](https://www.xiaozao520.cn/articles/2021/11/04/1635988501875.html)
 * [家轿颠覆者星瑞,试用自动泊车功能](https://www.xiaozao520.cn/articles/2021/09/13/1631516499921.html)
 * [自动定时发送微博](https://www.xiaozao520.cn/articles/2021/09/08/1631085300532.html)
 * [个人DIY：分体式带屏幕键盘](https://www.xiaozao520.cn/articles/2021/07/08/1625728645374.html)
@@ -29,7 +30,6 @@
 * [2020 年最牛逼的 10 门编程语言](https://www.xiaozao520.cn/articles/2020/08/21/1597973283154.html)
 * [『JWT』，你必须了解的认证登录方案](https://www.xiaozao520.cn/articles/2020/08/20/1597887680480.html)
 * [「查缺补漏」巩固你的HTTP知识体系](https://www.xiaozao520.cn/articles/2020/08/08/1596877693558.html)
-* [Linux面试题：50道一次分享给你，至少要答上一半！](https://www.xiaozao520.cn/articles/2020/06/06/1591425862450.html)
 
 
 
