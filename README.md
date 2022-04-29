@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Nginx 面试 38 问，妥了](https://www.xiaozao520.cn/articles/2022/04/29/1651196652036.html)
 * [docker搭建openvpn服务，打通k8s内网](https://www.xiaozao520.cn/articles/2021/12/07/1638857872489.html)
 * [linux负载均衡总结性说明（四层负载/七层负载）](https://www.xiaozao520.cn/articles/2021/12/07/1638857802269.html)
 * [分库分表有哪些思路和技巧？](https://www.xiaozao520.cn/articles/2021/11/04/1635988501875.html)
@@ -29,7 +30,6 @@
 * [关于Spring AOP的灵魂十问](https://www.xiaozao520.cn/articles/2020/09/09/1599613727655.html)
 * [前端面试指南](https://www.xiaozao520.cn/articles/2020/08/28/1598607282631.html)
 * [Nginx知识](https://www.xiaozao520.cn/articles/2020/08/24/1598231403151.html)
-* [2020 年最牛逼的 10 门编程语言](https://www.xiaozao520.cn/articles/2020/08/21/1597973283154.html)
 
 
 
