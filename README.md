@@ -10,8 +10,26 @@
 
 ### 最新
 
-* [1](https://www.xiaozao520.cn/articles/2022/06/10/1654856771533.html)
+* [2020-05-18__EMMMMMM](https://www.xiaozao520.cn/articles/2022/06/10/1654857463774.html)
+* [Nginx 面试 38 问，妥了](https://www.xiaozao520.cn/articles/2022/04/29/1651196652036.html)
+* [「查缺补漏」巩固你的HTTP知识体系](https://www.xiaozao520.cn/articles/2020/08/08/1596877693558.html)
 * [世界，你好！](https://www.xiaozao520.cn/hello-solo)
+* [分库分表有哪些思路和技巧？](https://www.xiaozao520.cn/articles/2021/11/04/1635988501875.html)
+* [docker搭建openvpn服务，打通k8s内网](https://www.xiaozao520.cn/articles/2021/12/07/1638857872489.html)
+* [linux负载均衡总结性说明（四层负载/七层负载）](https://www.xiaozao520.cn/articles/2021/12/07/1638857802269.html)
+* [结婚视频](https://www.xiaozao520.cn/articles/2021/01/23/1639911743485.html)
+* [K8S相关命令](https://www.xiaozao520.cn/articles/2021/06/28/1624866121392.html)
+* [One Day One Words - 2021](https://www.xiaozao520.cn/articles/2021/06/25/1624604005727.html)
+* [婚纱照](https://www.xiaozao520.cn/articles/2021/01/19/1611049908855.html)
+* [父母爱情](https://www.xiaozao520.cn/articles/2020/12/25/1608888836182.html)
+* [婚纱照_部分](https://www.xiaozao520.cn/articles/2020/12/25/1608880891587.html)
+* [家庭端口映射表](https://www.xiaozao520.cn/articles/2020/12/01/1606813159401.html)
+* [关于Spring AOP的灵魂十问](https://www.xiaozao520.cn/articles/2020/09/09/1599613727655.html)
+* [前端面试指南](https://www.xiaozao520.cn/articles/2020/08/28/1598607282631.html)
+* [Nginx知识](https://www.xiaozao520.cn/articles/2020/08/24/1598231403151.html)
+* [2020 年最牛逼的 10 门编程语言](https://www.xiaozao520.cn/articles/2020/08/21/1597973283154.html)
+* [『JWT』，你必须了解的认证登录方案](https://www.xiaozao520.cn/articles/2020/08/20/1597887680480.html)
+* [Linux面试题：50道一次分享给你，至少要答上一半！](https://www.xiaozao520.cn/articles/2020/06/06/1591425862450.html)
 
 
 
