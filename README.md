@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [1](https://www.xiaozao520.cn/articles/2022/06/10/1654856771533.html)
 * [世界，你好！](https://www.xiaozao520.cn/hello-solo)
 
 
