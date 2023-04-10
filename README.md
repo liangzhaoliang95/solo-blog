@@ -1,4 +1,4 @@
-<p align="center"><img alt="个人编程分享" src="https://oss.xiaozao520.cn:81/static/ico/logo.ico"></p><h2 align="center">
+<p align="center"><img alt="个人编程分享" src="https://b3log.org/images/brand/solo-128.png"></p><h2 align="center">
 个人编程分享
 </h2>
 
@@ -10,26 +10,26 @@
 
 ### 最新
 
-* [2020-05-18__EMMMMMM](https://www.xiaozao520.cn/articles/2022/06/10/1654857463774.html)
-* [Nginx 面试 38 问，妥了](https://www.xiaozao520.cn/articles/2022/04/29/1651196652036.html)
-* [「查缺补漏」巩固你的HTTP知识体系](https://www.xiaozao520.cn/articles/2020/08/08/1596877693558.html)
-* [世界，你好！](https://www.xiaozao520.cn/hello-solo)
-* [分库分表有哪些思路和技巧？](https://www.xiaozao520.cn/articles/2021/11/04/1635988501875.html)
-* [docker搭建openvpn服务，打通k8s内网](https://www.xiaozao520.cn/articles/2021/12/07/1638857872489.html)
-* [linux负载均衡总结性说明（四层负载/七层负载）](https://www.xiaozao520.cn/articles/2021/12/07/1638857802269.html)
-* [结婚视频](https://www.xiaozao520.cn/articles/2021/01/23/1639911743485.html)
-* [K8S相关命令](https://www.xiaozao520.cn/articles/2021/06/28/1624866121392.html)
-* [One Day One Words - 2021](https://www.xiaozao520.cn/articles/2021/06/25/1624604005727.html)
-* [婚纱照](https://www.xiaozao520.cn/articles/2021/01/19/1611049908855.html)
-* [父母爱情](https://www.xiaozao520.cn/articles/2020/12/25/1608888836182.html)
-* [婚纱照_部分](https://www.xiaozao520.cn/articles/2020/12/25/1608880891587.html)
-* [家庭端口映射表](https://www.xiaozao520.cn/articles/2020/12/01/1606813159401.html)
-* [关于Spring AOP的灵魂十问](https://www.xiaozao520.cn/articles/2020/09/09/1599613727655.html)
-* [前端面试指南](https://www.xiaozao520.cn/articles/2020/08/28/1598607282631.html)
-* [Nginx知识](https://www.xiaozao520.cn/articles/2020/08/24/1598231403151.html)
-* [2020 年最牛逼的 10 门编程语言](https://www.xiaozao520.cn/articles/2020/08/21/1597973283154.html)
-* [『JWT』，你必须了解的认证登录方案](https://www.xiaozao520.cn/articles/2020/08/20/1597887680480.html)
-* [Linux面试题：50道一次分享给你，至少要答上一半！](https://www.xiaozao520.cn/articles/2020/06/06/1591425862450.html)
+* [Redis 只会用缓存？](https://www.geekz.cn/articles/2023/01/12/1673500626095.html)
+* [谁再问我docker，我就把这篇甩给他](https://www.geekz.cn/articles/2023/01/03/1672726614049.html)
+* [MySQL命令大全：以后再也不用担心忘记SQL该怎么写啦~](https://www.geekz.cn/articles/2022/12/19/1671410962873.html)
+* [什么是 Istio？为什么 Kubernetes 需要 Istio？](https://www.geekz.cn/articles/2022/06/13/1655092892483.html)
+* [我在 GitHub 上的开源项目](https://www.geekz.cn/github)
+* [2020-05-18__EMMMMMM](https://www.geekz.cn/articles/2022/06/10/1654857463774.html)
+* [docker搭建openvpn服务，打通k8s内网](https://www.geekz.cn/articles/2021/12/07/1638857872489.html)
+* [Nginx知识](https://www.geekz.cn/articles/2020/08/24/1598231403151.html)
+* [linux负载均衡总结性说明（四层负载/七层负载）](https://www.geekz.cn/articles/2021/12/07/1638857802269.html)
+* [结婚视频](https://www.geekz.cn/articles/2021/01/23/1639911743485.html)
+* [node引入eslint](https://www.geekz.cn/articles/2021/06/28/1624866258147.html)
+* [K8S相关命令](https://www.geekz.cn/articles/2021/06/28/1624866121392.html)
+* [One Day One Words - 2021](https://www.geekz.cn/articles/2021/06/25/1624604005727.html)
+* [婚纱照](https://www.geekz.cn/articles/2021/01/19/1611049908855.html)
+* [父母爱情](https://www.geekz.cn/articles/2020/12/25/1608888836182.html)
+* [婚纱照_部分](https://www.geekz.cn/articles/2020/12/25/1608880891587.html)
+* [家庭端口映射表](https://www.geekz.cn/articles/2020/12/01/1606813159401.html)
+* [关于Spring AOP的灵魂十问](https://www.geekz.cn/articles/2020/09/09/1599613727655.html)
+* [前端面试指南](https://www.geekz.cn/articles/2020/08/28/1598607282631.html)
+* [2020 年最牛逼的 10 门编程语言](https://www.geekz.cn/articles/2020/08/21/1597973283154.html)
 
 
 
