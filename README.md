@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.geekz.cn/my-github-repos)
 * [One Day One Words - 2023](https://www.geekz.cn/articles/2023/04/10/1681128162515.html)
 * [Redis 只会用缓存？](https://www.geekz.cn/articles/2023/01/12/1673500626095.html)
 * [谁再问我docker，我就把这篇甩给他](https://www.geekz.cn/articles/2023/01/03/1672726614049.html)
@@ -17,10 +18,9 @@
 * [什么是 Istio？为什么 Kubernetes 需要 Istio？](https://www.geekz.cn/articles/2022/06/13/1655092892483.html)
 * [我在 GitHub 上的开源项目](https://www.geekz.cn/github)
 * [2020-05-18__EMMMMMM](https://www.geekz.cn/articles/2022/06/10/1654857463774.html)
-* [linux负载均衡总结性说明（四层负载/七层负载）](https://www.geekz.cn/articles/2021/12/07/1638857802269.html)
+* [分库分表有哪些思路和技巧？](https://www.geekz.cn/articles/2021/11/04/1635988501875.html)
 * [Nginx知识](https://www.geekz.cn/articles/2020/08/24/1598231403151.html)
-* [结婚视频](https://www.geekz.cn/articles/2021/01/23/1639911743485.html)
-* [node引入eslint](https://www.geekz.cn/articles/2021/06/28/1624866258147.html)
+* [docker搭建openvpn服务，打通k8s内网](https://www.geekz.cn/articles/2021/12/07/1638857872489.html)
 * [K8S相关命令](https://www.geekz.cn/articles/2021/06/28/1624866121392.html)
 * [One Day One Words - 2021](https://www.geekz.cn/articles/2021/06/25/1624604005727.html)
 * [婚纱照](https://www.geekz.cn/articles/2021/01/19/1611049908855.html)
