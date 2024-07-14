@@ -1,4 +1,4 @@
-<p align="center"><img alt="个人编程分享" src="https://b3log.org/images/brand/solo-128.png"></p><h2 align="center">
+<p align="center"><img alt="个人编程分享" src="https://oss.geekz.cn:81/pic/%E5%B0%8F%E7%81%B6%E5%A4%B4%E5%83%8F/qqhead.png"></p><h2 align="center">
 个人编程分享
 </h2>
 
