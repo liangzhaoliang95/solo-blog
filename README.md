@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [10 张图，说透 Kubernetes 架构和数据流，这回算是真懂了](https://localhost:81/articles/2024/12/19/1734586995091.html)
 * [我在 GitHub 上的开源项目](https://localhost:81/my-github-repos)
 * [One Day One Words - 2023](https://localhost:81/articles/2023/04/10/1681128162515.html)
 * [Redis 只会用缓存？](https://localhost:81/articles/2023/01/12/1673500626095.html)
@@ -18,9 +19,9 @@
 * [什么是 Istio？为什么 Kubernetes 需要 Istio？](https://localhost:81/articles/2022/06/13/1655092892483.html)
 * [我在 GitHub 上的开源项目](https://localhost:81/github)
 * [2020-05-18__EMMMMMM](https://localhost:81/articles/2022/06/10/1654857463774.html)
-* [分库分表有哪些思路和技巧？](https://localhost:81/articles/2021/11/04/1635988501875.html)
-* [Nginx知识](https://localhost:81/articles/2020/08/24/1598231403151.html)
 * [docker搭建openvpn服务，打通k8s内网](https://localhost:81/articles/2021/12/07/1638857872489.html)
+* [前端面试指南](https://localhost:81/articles/2020/08/28/1598607282631.html)
+* [node引入eslint](https://localhost:81/articles/2021/06/28/1624866258147.html)
 * [K8S相关命令](https://localhost:81/articles/2021/06/28/1624866121392.html)
 * [One Day One Words - 2021](https://localhost:81/articles/2021/06/25/1624604005727.html)
 * [婚纱照](https://localhost:81/articles/2021/01/19/1611049908855.html)
@@ -28,8 +29,7 @@
 * [婚纱照_部分](https://localhost:81/articles/2020/12/25/1608880891587.html)
 * [家庭服务器分配](https://localhost:81/articles/2020/12/01/1606813159401.html)
 * [关于Spring AOP的灵魂十问](https://localhost:81/articles/2020/09/09/1599613727655.html)
-* [前端面试指南](https://localhost:81/articles/2020/08/28/1598607282631.html)
-* [2020 年最牛逼的 10 门编程语言](https://localhost:81/articles/2020/08/21/1597973283154.html)
+* [Nginx知识](https://localhost:81/articles/2020/08/24/1598231403151.html)
 
 
 
